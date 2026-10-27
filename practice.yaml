@@ -1,0 +1,19 @@
+student:
+  name: John Smith
+  age: 24
+  is_enrolled: false
+  course: Computer Science
+
+  subjects:
+    - Mathematics
+    - Programming
+    - Database
+
+  address:
+    city: London
+    country: UK
+
+  grades:
+    Mathematics: 85
+    Programming: 92
+    Database: 78
