@@ -1,8 +1,8 @@
 student:
-  name: John Smith
-  age: 24
-  is_enrolled: false
-  course: Computer Science
+  name: Anda
+  age: 26
+  is_enrolled: true
+  course: IT
 
   subjects:
     - Mathematics
@@ -10,10 +10,10 @@ student:
     - Database
 
   address:
-    city: London
+    city: croydon
     country: UK
 
   grades:
-    Mathematics: 85
+    Mathematics: 80
     Programming: 92
     Database: 78

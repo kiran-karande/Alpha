@@ -1,0 +1,19 @@
+student:
+  name: John Smith
+  age: 25
+  is_enrolled: true
+  course: Computer Science
+
+  subjects:
+    - Mathematics
+    - Programming
+    - Database
+
+  address:
+    city: Brighton
+    country: uk
+
+  grades:
+    Mathematics: 85
+    Programming: 90
+    Database: 78
